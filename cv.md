@@ -34,3 +34,15 @@ I want to become a part of experienced and friendly team that will help me to pr
 *	AJAX
 *	MySQL
 *	Adobe Photoshop
+
+
+### English Proficiency
+
+
+Intermediate – B1
+
+
+### Code examples
+
+
+* [Github @HannaHerman](https://github.com/HannaHerman)
